@@ -1,0 +1,5 @@
+[01-Jun-2016 10:38:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/anri/public_html/ppid/application/modules/dashboard/controllers/dashboard.php on line 7
+[01-Jun-2016 12:32:33 UTC] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/anri/public_html/ppid/application/controllers/home.php on line 103
+[02-Jun-2016 07:26:39 UTC] PHP Fatal error:  Call to undefined function jenis_pengguna() in /home/anri/public_html/ppid/application/modules/registration/controllers/user.php on line 49
+[02-Jun-2016 07:29:04 UTC] PHP Fatal error:  Call to undefined function jenis_pengguna() in /home/anri/public_html/ppid/application/modules/registration/controllers/user.php on line 53
+[02-Jun-2016 07:29:32 UTC] PHP Fatal error:  Call to undefined function jenis_identitas() in /home/anri/public_html/ppid/application/modules/registration/controllers/user.php on line 59
